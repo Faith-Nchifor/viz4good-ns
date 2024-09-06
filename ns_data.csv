@@ -1,0 +1,414 @@
+date,acc_uid,industry,uin,start_age,gender,ethnicity,postcode,start_score,end_score,comments,likes,posts,ext_members,postcode_name,year,month,code_name
+2021-05-24,001g4O3N,Other,2301,15.0,Male,White or White British,PE30,17.98,24.11,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9Vom,Mental Health,2823,15.0,Female,White or White British,IP28,16.88,16.88,3.0,3.0,39,1,IP,2021,5,Ipswich
+2021-05-24,000U8fIB,Education,2909,14.0,Male,White or White British,BA2,17.43,23.21,56.0,37.0,37,5,BA,2021,5,Bath
+2021-05-24,001XkKur,Education,2834,14.0,Male,White or White British,PE14,20.73,23.21,197.0,372.0,183,6,PE,2021,5,Peterborough
+2021-05-24,000l9VrW,Education,2347,12.0,Male,Decline to say,CB4,23.21,26.02,,,0,0,CB,2021,5,Cambridge
+2021-05-24,00134bnb,Other,2362,14.0,Male,White or White British,MK44,22.35,29.31,,,0,0,MK,2021,5,Milton Keynes
+2021-05-24,000l9Vrz,Education,2873,12.0,Male,White or White British,CO9,27.03,26.02,29.0,35.0,42,4,CO,2021,5,Colchester
+2021-05-24,000TEHYT,Other,2875,,Female,Black or Black British,CO7,19.98,27.03,18.0,35.0,22,3,CO,2021,5,Colchester
+2021-05-24,000l9Vom,Mental Health,2876,14.0,Female,White or White British,IP30,23.21,25.03,62.0,61.0,60,3,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,2325,16.0,Male,White or White British,PE28,22.35,20.73,,,0,0,PE,2021,5,Peterborough
+2021-05-24,001iDwFd,Local Government,2763,14.0,Female,White or White British,RM14,16.88,17.98,3.0,3.0,26,1,RM,2021,5,Romford
+2021-05-24,000l9Vox,Other,2771,16.0,Male,Asian,CB23,21.54,29.31,36.0,18.0,176,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vp2,Local Government,2331,16.0,Female,White or White British,IP33,21.54,30.7,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0009vHLQ,,2396,20.0,Female,Decline to say,IP2,15.84,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vs5,Education,2406,14.0,Male,White or White British,CB8,20.73,24.11,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,2407,15.0,Male,White or White British,CB1,22.35,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000cwR7g,Mental Health,2424,9.0,Male,White or White British,IP28,23.21,24.11,207.0,156.0,210,6,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2930,13.0,Male,White or White British,CB9,17.43,23.21,39.0,48.0,41,4,CB,2021,5,Cambridge
+2021-05-24,000Cuiw6,Education,2430,10.0,Male,White or White British,CB9,19.98,22.35,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vom,Mental Health,2969,53.0,Male,White or White British,IP33,23.21,22.35,14.0,10.0,16,1,IP,2021,5,Ipswich
+2021-05-24,000l9VsV,Mental Health,2438,16.0,Male,White or White British,IP7,15.84,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vs5,Education,2443,15.0,Female,White or White British,CB8,18.59,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrV,Mental Health,2446,24.0,Male,White or White British,CO10,15.84,27.03,,,0,0,CO,2021,5,Colchester
+2021-05-24,0009vHLQ,,2450,21.0,Female,Decline to say,IP5,9.51,15.32,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001hhLis,Mental Health,2667,14.0,Other,White or White British,IP4,16.36,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0009vHLQ,,2481,20.0,Female,White or White British,IP8,20.73,26.02,,,0,1,IP,2021,5,Ipswich
+2021-05-24,0009vHLQ,,2606,17.0,Female,White or White British,IP13,19.98,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vox,Other,2521,16.0,Male,Mixed,MK41,19.25,20.73,,,0,0,MK,2021,5,Milton Keynes
+2021-05-24,000l9Vs5,Education,2821,11.0,Female,White or White British,IP32,14.75,16.36,10.0,8.0,52,2,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2682,21.0,Female,White or White British,IP14,17.43,23.21,0.0,0.0,3,2,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2618,14.0,Female,White or White British,IP4,17.98,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2627,15.0,Male,White or White British,IP1,35.0,35.0,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2629,24.0,Female,White or White British,CB8,18.59,35.0,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vrz,Education,2857,13.0,Female,White or White British,IP29,21.54,17.43,25.0,38.0,35,6,IP,2021,5,Ipswich
+2021-05-24,000l9Voh,Education,2657,16.0,Male,White or White British,IP4,21.54,23.21,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00134bnb,Other,2662,10.0,Male,Mixed,CB2,26.02,26.02,0.0,0.0,5,1,CB,2021,5,Cambridge
+2021-05-24,001Bmc8K,Education,2670,16.0,Male,Decline to say,NR33,23.21,21.54,,,0,0,NR,2021,5,Norwich
+2021-05-24,0009vHLQ,,2672,,Female,White or White British,IP28,24.11,17.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001hhLis,Mental Health,2674,11.0,Female,White or White British,CB9,22.35,25.03,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001iDwFd,Local Government,2905,14.0,Female,White or White British,RM14,15.32,22.35,13.0,9.0,44,1,RM,2021,5,Romford
+2021-05-24,000l9VrW,Education,840,20.0,Male,Any,PE19,16.36,17.43,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9VsD,Education,841,11.0,Male,Any,CO10,22.35,25.03,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9VrQ,Education,842,10.0,Male,Any,NR34,24.11,19.98,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9Vrb,Mental Health,843,32.0,Male,Any,IP11,19.25,20.73,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,845,16.0,Male,Any,IP2,17.98,15.32,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrV,Mental Health,846,18.0,Male,Not yet available,IP32,17.43,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp1,Other,847,15.0,Female,Any,IP4,17.98,25.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp4,Mental Health,848,29.0,Male,Any,CO10,27.03,27.03,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9VsC,Education,849,11.0,Male,Any,CB9,19.25,19.25,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9X5k,Other,850,45.0,Male,Any,IP33,18.59,27.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsF,Education,851,10.0,Male,Any,NR32,21.54,25.03,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9VrV,Mental Health,852,23.0,Male,Any,CB9,11.25,32.55,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrZ,Education,855,10.0,Male,Any,IP11,18.59,17.43,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,856,17.0,Male,Any,SG8,16.36,15.32,,,0,0,SG,2021,5,Stevenage
+2021-05-24,000l9X5i,Mental Health,860,25.0,Female,Any,IP2,15.32,15.84,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,861,11.0,Male,Any,CB24,20.73,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vs2,Education,862,10.0,Female,Any,IP12,25.03,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrU,Mental Health,863,18.0,Male,Any,IP27,19.25,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrh,Local Government,869,11.0,Male,Any,NR33,24.11,30.7,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9Vrf,Other,877,15.0,Female,Any,IP2,13.33,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrk,Education,879,11.0,Male,Any,IP19,24.11,30.7,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrM,Education,880,9.0,Male,Any,CB5,23.21,16.36,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,881,15.0,Female,Any,CB1,23.21,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vom,Mental Health,883,18.0,Male,Any,CB9,17.98,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,884,,Male,Any,SG8,21.54,28.13,,,0,0,SG,2021,5,Stevenage
+2021-05-24,000l9X5c,Education,885,15.0,Male,Any,IP9,19.98,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,5353,34.0,Male,White or White British,IP17,19.98,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0010xdNb,Education,1087,13.0,Male,White or White British,NR32,23.21,22.35,,,0,0,NR,2021,5,Norwich
+2021-05-24,00135cY0,Education,1113,13.0,Male,Mixed,IP1,19.25,20.73,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,1116,60.0,Female,White or White British,IP2,17.43,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0014pu5o,Other,1132,15.0,Male,Mixed,PE19,26.02,29.31,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9VsQ,Education,935,15.0,Male,White or White British,IP13,19.98,35.0,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9X5j,Local Government,1139,12.0,Male,White or White British,IP3,24.11,28.13,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9X5j,Local Government,1140,10.0,Male,White or White British,IP1,17.98,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrc,Other,1144,13.0,Male,White or White British,IP13,26.02,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0015LLse,Education,1156,18.0,Male,White or White British,CB1,20.73,24.11,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001Bmc8K,Education,1167,13.0,Male,White or White British,NR33,23.21,23.21,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9Vom,Mental Health,1176,,Female,White or White British,,17.98,15.84,,,0,0,,2021,5,
+2021-05-24,000l9X5j,Local Government,1164,8.0,Male,White or White British,IP2,21.54,20.73,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00135ny5,Other,1188,10.0,Male,White or White British,,24.11,27.03,,,0,0,,2021,5,
+2021-05-24,000l9Vp2,Local Government,1191,14.0,Male,White or White British,IP28,16.88,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,1214,14.0,Male,White or White British,CB21,24.11,29.31,,,0,0,CB,2021,5,Cambridge
+2021-05-24,00135ny5,Other,1224,17.0,Female,White or White British,CB1,21.54,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001Pf7fd,Education,1226,16.0,Male,White or White British,NR30,23.21,25.03,,,0,0,NR,2021,5,Norwich
+2021-05-24,001PiHno,Mental Health,1229,24.0,Male,White or White British,IP33,18.59,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001OfFYh,Education,1240,13.0,Male,White or White British,NR12,28.13,27.03,,,0,0,NR,2021,5,Norwich
+2021-05-24,0016xCVs,Mental Health,1250,12.0,Female,White or White British,IP31,22.35,25.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VoK,Other,1265,9.0,Male,White or White British,CB22,20.73,19.98,,,0,0,CB,2021,5,Cambridge
+2021-05-24,0016xCVs,Mental Health,1269,15.0,Male,White or White British,IP13,27.03,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,1276,10.0,Male,White or White British,CB22,27.03,21.54,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,1284,10.0,Male,White or White British,CB1,25.03,28.13,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vp2,Local Government,1314,28.0,Male,White or White British,IP5,16.36,19.25,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00135ny5,Other,1315,11.0,Male,White or White British,CB24,16.36,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrV,Mental Health,1317,22.0,Male,White or White British,CO10,15.84,19.98,,,0,0,CO,2021,5,Colchester
+2021-05-24,0016xCVs,Mental Health,1318,17.0,Female,White or White British,IP5,19.25,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0016xCVs,Mental Health,1320,13.0,Female,White or White British,IP33,15.32,16.36,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0016xCVs,Mental Health,1330,16.0,Female,Mixed,CB8,23.21,21.54,,,0,0,CB,2021,5,Cambridge
+2021-05-24,0016xCVs,Mental Health,1331,15.0,Male,Other,IP27,20.73,27.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0016xCVs,Mental Health,1333,18.0,Female,White or White British,IP33,19.25,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001e83Vl,Education,1338,13.0,Male,White or White British,PE6,27.03,30.7,,,0,0,PE,2021,5,Peterborough
+2021-05-24,0016xCVs,Mental Health,1343,16.0,Female,White or White British,CO,16.36,17.43,,,0,0,CO,2021,5,Colchester
+2021-05-24,0016xCVs,Mental Health,1507,16.0,Male,White or White British,CB8,21.54,22.35,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,1768,9.0,Female,White or White British,PE15,35.0,24.11,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9Vp2,Local Government,1780,14.0,Male,White or White British,IP17,19.98,19.25,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0016xCVs,Mental Health,1804,14.0,Male,White or White British,IP29,20.73,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrw,Mental Health,1813,40.0,Female,White or White British,IP3,22.35,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001rrGwJ,,1818,10.0,Male,Mixed,IP4,16.88,16.88,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,1831,9.0,Male,Mixed,CB25,16.88,19.98,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001vweDO,Education,1848,14.0,Male,White or White British,IP2,19.98,19.25,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,1861,13.0,Female,White or White British,IP2,18.59,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,1865,14.0,Female,White or White British,IP3,16.36,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,1867,13.0,Male,White or White British,IP3,24.11,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001vweDO,Education,1868,14.0,Female,White or White British,IP1,17.43,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001vweDO,Education,1871,14.0,Male,White or White British,IP4,16.36,19.25,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001rrGwJ,,1880,15.0,Female,Mixed,IP2,15.32,23.21,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00135cY0,Education,1892,15.0,Female,Other,IP2,14.08,17.43,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrw,Mental Health,1903,14.0,Male,White or White British,IP2,9.51,17.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001z7GZI,,1907,15.0,Male,White or White British,IP1,19.98,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,1633,10.0,Male,White or White British,PE15,17.43,17.43,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9VrW,Education,1635,9.0,Female,White or White British,PE15,21.54,26.02,,,0,0,PE,2021,5,Peterborough
+2021-05-24,0016yDai,Education,1700,16.0,Male,White or White British,IP2,23.21,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00135cY0,Education,2045,15.0,Male,,IP2,18.59,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsB,Education,2064,15.0,Male,White or White British,IP4,16.88,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2092,14.0,Male,White or White British,IP1,18.59,19.25,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0026Ovii,Education,2097,13.0,Male,White or White British,NR3,19.98,19.98,,,0,0,NR,2021,5,Norwich
+2021-05-24,001z97bQ,Education,2103,14.0,Male,White or White British,IP3,21.54,7.0,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000Zrgwl,Other,2129,11.0,Male,White or White British,IP2,14.75,15.32,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,2131,14.0,Male,White or White British,IP2,19.25,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0027b8tD,Education,2136,11.0,Female,White or White British,CB1,17.98,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001XkKur,Education,1954,,Male,White or White British,IP25,17.98,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,1984,14.0,Male,White or White British,IP2,17.98,20.73,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00135cY0,Education,1988,15.0,Male,White or White British,IP2,17.43,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,1995,15.0,Male,White or White British,CB7,24.11,30.7,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001Bmc8K,Education,2027,11.0,Male,Other,NR32,22.35,22.35,,,0,0,NR,2021,5,Norwich
+2021-05-24,0021Ovvt,,2029,15.0,Male,White or White British,CM17,22.35,21.54,,,0,0,CM,2021,5,Chelmsford
+2021-05-24,001rrGwJ,,2032,10.0,Male,White or White British,IP14,19.25,19.25,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrd,Mental Health,2038,17.0,Female,White or White British,IP33,19.98,28.13,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,1917,13.0,Male,White or White British,IP4,23.21,27.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrV,Mental Health,947,18.0,Male,Any,CB9,19.98,26.02,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vp4,Mental Health,758,41.0,Male,Any,IP2,16.36,35.0,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2145,13.0,Male,White or White British,IP14,21.54,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001xk4y5,Education,2163,12.0,Male,White or White British,IP1,25.03,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001xk4y5,Education,2166,13.0,Male,Mixed,IP1,25.03,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001xk4y5,Education,2168,13.0,Male,White or White British,IP2,23.21,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001vweDO,Education,2175,13.0,Male,White or White British,IP1,22.35,23.21,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2180,25.0,Male,White or White British,IP33,17.43,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00134bnb,Other,2188,10.0,Male,White or White British,CB21,26.02,24.11,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9Vrh,Local Government,765,18.0,Male,Any,IP5,18.59,23.21,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsA,Other,772,16.0,Female,Any,NR33,16.88,19.98,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9Vp2,Local Government,774,12.0,Male,Any,IP11,25.03,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrm,Education,778,13.0,Male,Any,IP11,15.32,14.08,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9X5d,Education,780,11.0,Male,Any,IP33,25.03,27.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrh,Local Government,781,14.0,Male,Any,IP11,18.59,28.13,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsN,Education,782,14.0,Male,Any,IP14,26.02,20.73,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9X5c,Education,834,12.0,Male,Any,IP6,16.36,17.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001vweDO,Education,2262,15.0,Male,White or White British,IP1,22.35,29.31,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vom,Mental Health,2272,13.0,Other,White or White British,IP2,15.84,15.84,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsK,Local Government,788,17.0,Female,Any,IP11,22.35,28.13,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,800,16.0,Male,Any,IP2,20.73,25.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9X5c,Education,838,16.0,Male,Any,CO10,25.03,23.21,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9Voh,Education,912,16.0,Male,Any,NR19,22.35,28.13,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9VsD,Education,810,12.0,Female,Any,CO10,20.73,21.54,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9VsD,Education,811,13.0,Male,Any,CO10,23.21,35.0,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9Vry,Local Government,814,12.0,Male,Any,IP4,20.73,17.43,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrV,Mental Health,816,17.0,Female,Any,IP31,14.08,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsR,Education,817,16.0,Male,Any,NR32,22.35,20.73,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9Vp4,Mental Health,823,26.0,Male,Any,IP33,19.25,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,824,13.0,Male,Any,PE28,22.35,29.31,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9Vom,Mental Health,825,21.0,Male,Any,CO10,17.98,20.73,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9X5c,Education,826,14.0,Male,Any,IP2,26.02,32.55,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VsV,Mental Health,827,34.0,Male,Any,CO10,26.02,24.11,,,0,0,CO,2021,5,Colchester
+2021-05-24,000l9VrW,Education,830,16.0,Male,Any,PE29,22.35,26.02,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9VsV,Mental Health,831,17.0,Female,Any,IP28,16.88,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp4,Mental Health,832,34.0,Male,Any,IP8,13.33,17.43,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp1,Other,833,28.0,Male,Any,IP4,17.98,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vrd,Mental Health,835,,Female,Any,IP30,17.43,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,836,13.0,Male,Any,PE29,17.98,17.43,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000l9VrW,Education,839,18.0,Male,Any,PE29,16.88,19.25,,,0,0,PE,2021,5,Peterborough
+2021-05-24,001iDwFd,Local Government,2801,16.0,Female,Black or Black British,RM7,20.73,20.73,14.0,3.0,61,1,RM,2021,5,Romford
+2021-05-24,000Cuiw6,Education,2808,10.0,Male,White or White British,CB9,27.03,25.03,20.0,15.0,27,3,CB,2021,5,Cambridge
+2021-05-24,001iDwFd,Local Government,2809,16.0,Female,Black or Black British,RM3,14.08,16.36,14.0,17.0,49,2,RM,2021,5,Romford
+2021-05-24,000l9VrV,Mental Health,2138,16.0,Male,White or White British,CO10,17.98,22.35,,,0,0,CO,2021,5,Colchester
+2021-05-24,001rrGwJ,,2106,15.0,Male,White or White British,IP4,21.54,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9X5c,Education,1745,14.0,Male,White or White British,IP4,19.25,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0015LLse,Education,2080,18.0,Male,White or White British,CB7,22.35,22.35,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001IGAju,Other,2285,15.0,Male,White or White British,PE29,17.98,19.25,,,0,0,PE,2021,5,Peterborough
+2021-05-24,00135cY0,Education,1888,15.0,Male,White or White British,IP2,17.98,24.11,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0016yDai,Education,2110,14.0,Male,White or White British,IP2,23.21,26.02,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0026P6Dj,Local Government,2171,14.0,Male,White or White British,CM20,23.21,27.03,,,0,0,CM,2021,5,Chelmsford
+2021-05-24,002BIDXn,,2281,13.0,Male,Decline to say,IP24,18.59,35.0,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001vweDO,Education,2056,13.0,Female,White or White British,IP1,19.25,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2142,12.0,Male,White or White British,IP2,20.73,21.54,,,0,0,IP,2021,5,Ipswich
+2021-05-24,002B9AIy,,2279,17.0,Female,Asian,IP5,14.75,16.88,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2291,17.0,Male,White or White British,IP4,20.73,22.35,,,0,0,IP,2021,5,Ipswich
+2021-05-24,0009vHLQ,,2462,19.0,Female,White or White British,IP16,18.59,24.11,,,0,1,IP,2021,5,Ipswich
+2021-05-24,0015LLse,Education,2738,18.0,Male,White or White British,CB24,9.51,19.25,12.0,4.0,119,2,CB,2021,5,Cambridge
+2021-05-24,001vweDO,Education,2111,12.0,Male,Mixed,IP1,28.13,17.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2807,16.0,Male,White or White British,CO10,20.73,22.35,28.0,35.0,23,2,CO,2021,5,Colchester
+2021-05-24,000l9Vs4,Education,2779,16.0,Female,White or White British,IP27,14.75,18.59,7.0,2.0,35,3,IP,2021,5,Ipswich
+2021-05-24,001iDwFd,Local Government,2778,14.0,Female,Mixed,RM14,19.25,22.35,102.0,80.0,47,7,RM,2021,5,Romford
+2021-05-24,0009vHLQ,,2788,16.0,Female,Mixed,IP3,9.51,16.88,34.0,42.0,59,1,IP,2021,5,Ipswich
+2021-05-24,000l9Vs4,Education,2800,15.0,Male,White or White British,IP28,12.4,32.55,19.0,12.0,96,1,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2134,12.0,Male,White or White British,IP6,23.21,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001iDwFd,Local Government,2942,13.0,Female,White or White British,RM14,21.54,25.03,57.0,39.0,71,5,RM,2021,5,Romford
+2021-05-24,000l9VrW,Education,2266,19.0,Male,White or White British,CB23,14.08,23.21,,,0,0,CB,2021,5,Cambridge
+2021-05-24,001Bmc8K,Education,2284,14.0,Male,White or White British,IP16,24.11,19.98,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001vweDO,Education,2261,12.0,Female,White or White British,IP1,14.75,18.59,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001iDwFd,Local Government,2748,13.0,Male,Other,RM12,20.73,22.35,14.0,5.0,40,2,RM,2021,5,Romford
+2021-05-24,001iDwFd,Local Government,2750,18.0,Male,Black or Black British,RM3,35.0,29.31,1.0,0.0,10,2,RM,2021,5,Romford
+2021-05-24,000l9Vs4,Education,2758,15.0,Male,White or White British,IP27,21.54,26.02,2.0,1.0,24,1,IP,2021,5,Ipswich
+2021-05-24,0009vHLQ,,2733,14.0,Female,Decline to say,CB9,17.98,15.84,19.0,4.0,38,0,CB,2021,5,Cambridge
+2021-05-24,0016vszJ,Education,1158,13.0,Male,White or White British,CB5,19.25,26.02,,,0,0,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,1936,15.0,Male,White or White British,PE29,18.59,24.11,,,0,0,PE,2021,5,Peterborough
+2021-05-24,000HS2dX,Education,2519,10.0,Male,White or White British,CB8,24.11,29.31,6.0,5.0,23,7,CB,2021,5,Cambridge
+2021-05-24,000l9VrW,Education,1293,,Male,Mixed,PE7,18.59,29.31,,,0,0,PE,2021,5,Peterborough
+2021-05-24,001uZW2Z,,1846,14.0,Male,White or White British,PE1,15.84,17.98,,,0,0,PE,2021,5,Peterborough
+2021-05-24,001xiI5n,,1863,15.0,Female,White or White British,1P23,11.25,11.25,,,0,0,1P,2021,5,
+2021-05-24,000l9X5c,Education,2059,15.0,Male,White or White British,IP3,30.7,30.7,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2311,13.0,Male,White or White British,IP5,23.21,25.03,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2221,12.0,Male,White or White British,IP13,17.43,17.43,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001xiecm,,1872,16.0,Male,White or White British,NR33,26.02,19.25,,,0,0,NR,2021,5,Norwich
+2021-05-24,000l9Vp2,Local Government,2085,16.0,Male,White or White British,IP11,17.43,15.84,,,0,0,IP,2021,5,Ipswich
+2021-05-24,000l9Vra,Education,2222,14.0,Female,White or White British,IP2,19.98,16.88,,,0,0,IP,2021,5,Ipswich
+2021-05-24,001jzpOG,Local Government,2333,14.0,Female,White or White British,IP12,17.98,15.32,,,0,0,IP,2021,5,Ipswich
+2021-05-24,00134bnb,Other,2599,13.0,Male,White or White British,CB21,18.59,21.54,19.0,50.0,59,7,CB,2021,5,Cambridge
+2021-05-24,00134bnb,Other,2954,12.0,Male,White or White British,PE,19.98,23.21,25.0,8.0,52,1,PE,2021,5,Peterborough
+2021-05-24,001iDwFd,Local Government,2841,15.0,Male,White or White British,RM3,27.03,22.35,6.0,3.0,46,1,RM,2021,5,Romford
+2021-05-24,000l9Vp2,Local Government,2877,13.0,Male,White or White British,IP33,25.03,19.25,17.0,5.0,21,2,IP,2021,5,Ipswich
+2021-05-24,000UKBTj,,3037,18.0,Female,White or White British,NR1,20.73,30.7,40.0,44.0,63,3,NR,2021,5,Norwich
+2021-05-24,000l9Vom,Mental Health,2868,12.0,Male,White or White British,IP13,21.54,20.73,12.0,4.0,16,4,IP,2021,5,Ipswich
+2021-05-24,000l9Vp2,Local Government,2818,14.0,Male,White or White British,CB8,29.31,35.0,36.0,15.0,50,4,CB,2021,5,Cambridge
+2021-05-24,000l9Vp2,Local Government,2831,15.0,Male,White or White British,IP14,24.11,29.31,32.0,65.0,145,3,IP,2021,5,Ipswich
+2021-05-24,001iDwFd,Local Government,2804,15.0,Female,Black or Black British,RM12,19.25,23.21,11.0,6.0,19,1,RM,2021,5,Romford
+2021-05-24,000l9Vom,Mental Health,3094,15.0,Male,White or White British,NR28,16.36,19.98,29.0,37.0,39,2,NR,2021,5,Norwich
+2021-05-24,000l9Vom,Mental Health,3130,,Female,,NR14,7.0,20.73,22.0,26.0,33,4,NR,2021,5,Norwich
+2021-05-24,000Bd294,Local Government,5189,17.0,Male,,IP14,27.03,24.11,19.0,12.0,37,1,IP,2021,5,Ipswich
+2021-05-24,000l9VrW,Education,3056,14.0,Male,,PE7,14.08,21.54,22.0,24.0,39,2,PE,2021,5,Peterborough
+2021-05-24,000XVdPm,Education,3119,11.0,Male,,CB8,22.35,27.03,35.0,27.0,22,6,CB,2021,5,Cambridge
+2021-05-24,000l9Vp2,Local Government,3104,29.0,Male,,IP33,19.98,30.0,10.0,5.0,14,2,IP,2021,5,Ipswich
+2021-05-24,000UKBTj,,3052,13.0,Female,White or White British,IP21,20.73,26.02,81.0,58.0,74,1,IP,2021,5,Ipswich
+2021-05-24,000YOjKH,,3152,9.0,Male,,01440702,20.73,22.35,21.0,8.0,25,4,01,2021,5,
+2021-05-24,0015LLse,Education,2974,20.0,Male,White or White British,CB24,23.21,26.02,10.0,5.0,18,3,CB,2021,5,Cambridge
+2021-05-25,000l9VrW,Education,1778,,Male,White or White British,PE7,24.11,22.35,,,0,0,PE,2021,5,Peterborough
+2021-06-02,000l9Vp2,Local Government,3179,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,N5,20.73,28.13,21.0,36.0,22,6,N5,2021,6,
+2021-06-08,000l9Vom,Mental Health,3187,18.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP4,25.03,21.54,120.0,160.0,100,5,IP,2021,6,Ipswich
+2021-06-09,001iDwFd,Local Government,3192,12.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,RM5,13.33,15.32,7.0,5.0,39,1,RM,2021,6,Romford
+2021-06-15,000Cuiw6,Education,3195,10.0,Male,Other,CO10,19.25,19.98,16.0,13.0,20,2,CO,2021,6,Colchester
+2021-06-17,001uZW2Z,,3212,15.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,PE1,22.35,19.25,13.0,8.0,15,1,PE,2021,6,Peterborough
+2021-06-22,0009vHLQ,,2526,14.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP28,19.25,21.54,22.0,15.0,47,1,IP,2021,6,Ipswich
+2021-06-24,000l9VoK,Other,3266,14.0,Prefer not to say,Other,PE27,20.73,19.25,18.0,10.0,112,1,PE,2021,6,Peterborough
+2021-07-01,000l9VoK,Other,3280,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,PE13,35.0,35.0,49.0,37.0,184,4,PE,2021,7,Peterborough
+2021-07-02,000Wat26,Local Government,3293,13.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,BH17,29.31,26.02,12.0,4.0,10,2,BH,2021,7,Bournemouth
+2021-07-08,000l9Vs5,Education,3303,13.0,Male,White and Black Caribbean,CB8,25.03,22.35,25.0,11.0,47,1,CB,2021,7,Cambridge
+2021-07-13,000HS2dX,Education,3316,10.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB7,22.35,29.31,5.0,1.0,39,0,CB,2021,7,Cambridge
+2021-07-26,001gnYTS,Education,3324,,Male,,CB6,24.11,26.02,51.0,106.0,110,4,CB,2021,7,Cambridge
+2021-07-30,000l9Vox,Other,3325,12.0,Male,,CO6,24.11,20.73,88.0,98.0,55,12,CO,2021,7,Colchester
+2021-08-02,000l9Vp2,Local Government,3329,12.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP13,22.35,27.03,8.0,8.0,49,1,IP,2021,8,Ipswich
+2021-08-16,000l9VoK,Other,3347,13.0,Male,,CB23,20.73,19.25,19.0,35.0,74,6,CB,2021,8,Cambridge
+2021-08-16,000l9VrW,Education,3351,17.0,Male,,CB21,17.98,20.73,166.0,74.0,464,2,CB,2021,8,Cambridge
+2021-08-20,000l9Vp2,Local Government,3353,14.0,Male,,IP6,19.98,18.59,17.0,8.0,39,1,IP,2021,8,Ipswich
+2021-08-20,000l9Vp2,Local Government,3357,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP3,30.7,35.0,61.0,68.0,136,7,IP,2021,8,Ipswich
+2021-09-13,001vweDO,Education,3459,14.0,Male,,IP1,17.98,19.25,7.0,4.0,32,4,IP,2021,9,Ipswich
+2021-09-17,000l9VrW,Education,3465,12.0,Male,,CB6,23.21,22.35,45.0,83.0,61,5,CB,2021,9,Cambridge
+2021-09-17,000Bd294,Local Government,3467,14.0,Male,,IP33,23.21,29.31,102.0,217.0,151,9,IP,2021,9,Ipswich
+2021-09-23,001xk4y5,Education,3475,14.0,Male,,IP1,19.98,22.35,15.0,8.0,28,2,IP,2021,9,Ipswich
+2021-10-18,000l9VpJ,Mental Health,3532,40.0,Female,,IP1,19.98,23.21,13.0,13.0,72,1,IP,2021,10,Ipswich
+2021-11-02,001gnYTS,Education,3558,14.0,Male,,CB4,22.35,25.03,22.0,20.0,103,2,CB,2021,11,Cambridge
+2021-11-02,001gnYTS,Education,3560,11.0,Male,,,26.02,27.03,6.0,10.0,25,3,,2021,11,
+2021-11-02,001gnYTS,Education,3561,13.0,Female,,,20.73,20.73,47.0,72.0,157,3,,2021,11,
+2021-11-05,000eExkP,Mental Health,3566,14.0,Male,,IP3,20.73,24.11,11.0,15.0,53,2,IP,2021,11,Ipswich
+2021-11-22,000l9Vs4,Education,3613,12.0,Male,,IP28,19.98,19.98,10.0,12.0,20,3,IP,2021,11,Ipswich
+2021-11-22,000U8fIB,Education,3614,14.0,Female,,SP4,17.98,23.21,59.0,49.0,86,7,SP,2021,11,Salisbury
+2021-11-22,000l9VrW,Education,3619,13.0,Male,,,17.43,17.98,34.0,73.0,120,3,,2021,11,
+2021-12-10,000l9Vom,Mental Health,3641,16.0,Male,,IP22,15.32,17.98,27.0,18.0,65,6,IP,2021,12,Ipswich
+2021-12-15,000fNtEH,Education,3648,12.0,Male,,CB21,20.73,21.54,11.0,8.0,47,1,CB,2021,12,Cambridge
+2021-12-20,000ICPtv,Education,3652,15.0,Male,,CB9,24.11,20.73,6.0,8.0,20,2,CB,2021,12,Cambridge
+2022-01-04,000fNtEH,Education,3662,,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB21,21.54,19.25,5.0,6.0,43,1,CB,2022,1,Cambridge
+2022-01-10,000fPeRQ,,3673,10.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB23,20.73,20.73,61.0,120.0,192,4,CB,2022,1,Cambridge
+2022-01-14,000fQ01p,,3687,9.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP11,21.54,27.03,4.0,2.0,32,2,IP,2022,1,Ipswich
+2022-01-17,000l9Vox,Other,3696,21.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP4,17.43,26.02,57.0,44.0,124,4,IP,2022,1,Ipswich
+2022-01-19,000l9Vra,Education,3699,16.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP2,19.25,22.35,21.0,12.0,86,3,IP,2022,1,Ipswich
+2022-01-24,000eExkP,Mental Health,3711,9.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB9,18.59,19.25,16.0,27.0,20,3,CB,2022,1,Cambridge
+2022-01-31,000l9VoK,Other,3716,16.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,LN5,24.11,24.11,5.0,7.0,28,3,LN,2022,1,Lincoln
+2022-02-01,001gnYTS,Education,3725,12.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,CB4,22.35,23.21,37.0,189.0,151,3,CB,2022,2,Cambridge
+2022-02-01,001gnYTS,Education,3728,13.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,CB4,21.54,23.21,30.0,20.0,95,2,CB,2022,2,Cambridge
+2022-02-07,001gnYTS,Education,3742,11.0,Female,Bangladesh,CB4,16.36,24.11,18.0,27.0,40,2,CB,2022,2,Cambridge
+2022-02-25,000gtpdv,,3763,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CO4,21.54,23.21,27.0,69.0,39,5,CO,2022,2,Colchester
+2022-02-28,000l9VrW,Education,3764,13.0,Male,,PE15,23.21,19.98,90.0,242.0,269,6,PE,2022,2,Peterborough
+2022-03-03,001vweDO,Education,3748,13.0,,,,18.59,23.21,27.0,18.0,41,1,,2022,3,
+2022-03-04,000Zrgwl,Other,3040,,Female,Black/African/Caribbean/Black British ? African,CB25,11.25,28.13,,,0,0,CB,2022,3,Cambridge
+2022-03-19,000gtpdv,,3786,14.0,Male,,CO3,25.03,29.31,25.0,31.0,69,3,CO,2022,3,Colchester
+2021-09-30,000HSx3H,Education,3494,17.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB2,20.73,21.54,55.0,93.0,89,4,CB,2021,9,Cambridge
+2022-03-25,000EwTrl,Education,1632,13.0,Male,White or White British,IP14,23.21,30.7,34.0,60.0,139,4,IP,2022,3,Ipswich
+2022-03-29,000l9VoV,,3808,15.0,,,,19.98,18.59,5.0,0.0,40,1,,2022,3,
+2022-03-29,000l9VoV,,3807,16.0,,,,22.35,20.73,5.0,0.0,40,1,,2022,3,
+2022-04-04,000eH2wk,,3623,12.0,Male,,IP32,22.35,20.73,42.0,42.0,47,1,IP,2022,4,Ipswich
+2022-04-04,000l9Vox,Other,3815,25.0,Other,,PE19,16.36,20.73,67.0,219.0,478,3,PE,2022,4,Peterborough
+2022-04-12,000l9VrW,Education,3830,12.0,,,PE16,22.35,25.03,9.0,60.0,69,1,PE,2022,4,Peterborough
+2022-05-04,000l9Vp2,Local Government,3851,15.0,Female,,IP31,17.43,13.33,21.0,27.0,59,2,IP,2022,5,Ipswich
+2022-05-11,0009G0rb,,3869,11.0,Male,,IP12,14.08,15.84,56.0,64.0,72,2,IP,2022,5,Ipswich
+2022-05-13,000eExkP,Mental Health,3876,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP32,15.32,20.73,30.0,25.0,69,3,IP,2022,5,Ipswich
+2022-05-20,000eExkP,Mental Health,3885,14.0,Male,,IP1,28.13,29.31,14.0,46.0,50,2,IP,2022,5,Ipswich
+2022-05-23,000l9Vp2,Local Government,3893,,Male,,IP11,17.98,20.73,6.0,13.0,71,1,IP,2022,5,Ipswich
+2022-05-25,000l9VoK,Other,3898,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB4,18.59,25.03,10.0,16.0,9,3,CB,2022,5,Cambridge
+2022-06-20,000BcZZG,Education,3921,14.0,Male,,SG17,19.25,19.98,225.0,324.0,288,11,SG,2022,6,Stevenage
+2022-06-23,000l9Vox,Other,3931,11.0,Male,,IP23,17.98,30.7,16.0,38.0,91,2,IP,2022,6,Ipswich
+2022-06-29,000Bd294,Local Government,3941,15.0,Male,,IP5,22.35,20.73,25.0,60.0,46,3,IP,2022,6,Ipswich
+2022-06-29,000Bd294,Local Government,3946,16.0,Male,,IP14,22.35,26.02,22.0,36.0,44,3,IP,2022,6,Ipswich
+2022-07-22,000eExkP,Mental Health,3977,12.0,,,IP6,20.73,19.98,26.0,67.0,63,1,IP,2022,7,Ipswich
+2022-07-27,000l9Vom,Mental Health,3979,14.0,,,IP12,20.73,19.98,61.0,38.0,61,4,IP,2022,7,Ipswich
+2022-07-28,000l9Vp2,Local Government,3505,15.0,,,CO10,19.98,28.13,26.0,29.0,207,11,CO,2022,7,Colchester
+2022-08-03,000l9Vp2,Local Government,3993,14.0,Male,Other,IP28,16.36,23.21,5.0,11.0,43,1,IP,2022,8,Ipswich
+2022-08-09,000Bd294,Local Government,4003,15.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB8,17.98,16.36,10.0,16.0,22,3,CB,2022,8,Cambridge
+2022-08-17,000l9Vp2,Local Government,4014,16.0,Male,,IP1,20.73,22.35,11.0,17.0,55,3,IP,2022,8,Ipswich
+2022-08-26,000eExkP,Mental Health,4028,12.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP13,19.98,24.11,25.0,19.0,52,1,IP,2022,8,Ipswich
+2022-08-26,000eExkP,Mental Health,4033,16.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP13,25.03,26.02,2.0,11.0,26,0,IP,2022,8,Ipswich
+2022-09-08,000eExkP,Mental Health,4043,14.0,Non-binary,Other,IP32,17.43,22.35,10.0,34.0,21,3,IP,2022,9,Ipswich
+2022-09-12,0009EHWS,Education,4052,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CM7,17.43,23.21,3.0,32.0,149,4,CM,2022,9,Chelmsford
+2022-09-13,000eExkP,Mental Health,4056,12.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP33,20.73,22.35,19.0,50.0,55,4,IP,2022,9,Ipswich
+2022-09-21,000eExkP,Mental Health,4067,15.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP27,19.98,23.21,34.0,34.0,46,3,IP,2022,9,Ipswich
+2022-09-21,001gnYTS,Education,4070,12.0,,,CB4,26.02,24.11,5.0,14.0,14,1,CB,2022,9,Cambridge
+2022-10-06,001gnYTS,Education,4105,11.0,,,CB4,20.73,24.11,12.0,20.0,20,2,CB,2022,10,Cambridge
+2022-10-06,000eExkP,Mental Health,4107,11.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP32,19.98,22.35,25.0,20.0,20,5,IP,2022,10,Ipswich
+2022-10-20,000eExkP,Mental Health,4133,12.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP1,22.35,17.98,23.0,73.0,69,1,IP,2022,10,Ipswich
+2022-10-20,000eExkP,Mental Health,4134,15.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP2,19.25,22.35,13.0,27.0,38,5,IP,2022,10,Ipswich
+2022-10-20,000eExkP,Mental Health,4153,10.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP23,18.59,19.25,20.0,22.0,40,1,IP,2022,10,Ipswich
+2022-10-24,000eExkP,Mental Health,4161,12.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP8,21.54,25.03,37.0,53.0,71,5,IP,2022,10,Ipswich
+2022-10-25,000eExkP,Mental Health,4162,11.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP6,16.88,25.03,6.0,10.0,38,0,IP,2022,10,Ipswich
+2022-10-28,000l9Vp2,Local Government,4164,19.0,Male,,IP18,25.03,28.13,14.0,43.0,293,3,IP,2022,10,Ipswich
+2022-11-03,000eExkP,Mental Health,4170,10.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP14,24.11,32.55,11.0,48.0,75,1,IP,2022,11,Ipswich
+2022-11-03,000eExkP,Mental Health,4172,16.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP14,20.73,20.73,12.0,25.0,34,2,IP,2022,11,Ipswich
+2022-11-08,0009G0rb,,4176,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP17,21.54,26.02,35.0,74.0,46,2,IP,2022,11,Ipswich
+2022-11-11,000eExkP,Mental Health,4189,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CO7,17.98,28.13,6.0,18.0,23,1,CO,2022,11,Colchester
+2022-12-13,000l9VsQ,Education,4255,12.0,,,,20.73,19.98,62.0,83.0,269,6,,2022,12,
+2022-12-14,001j55kU,Education,4264,15.0,,,CB4,17.43,19.25,15.0,16.0,23,4,CB,2022,12,Cambridge
+2022-12-15,0026P6Dj,Local Government,4263,14.0,,,CO2,23.21,23.21,18.0,9.0,31,3,CO,2022,12,Colchester
+2022-12-19,000l9VoK,Other,4274,16.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB1,18.59,17.43,9.0,18.0,43,1,CB,2022,12,Cambridge
+2022-12-19,000l9VoK,Other,4276,13.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,SG8,17.98,22.35,28.0,110.0,152,1,SG,2022,12,Stevenage
+2023-01-04,000OyRfk,Education,4283,11.0,,,,26.02,23.21,9.0,6.0,28,2,,2023,1,
+2023-01-04,000OyRfk,Education,4286,13.0,,,IP33,19.25,22.35,15.0,6.0,22,1,IP,2023,1,Ipswich
+2023-01-06,000l9Vp2,Local Government,4290,15.0,,,CB8,15.84,16.36,25.0,48.0,35,3,CB,2023,1,Cambridge
+2023-01-18,000eExkP,Mental Health,4319,11.0,Female,Other,CB8,23.21,19.98,25.0,10.0,26,2,CB,2023,1,Cambridge
+2023-01-18,000Ctu7z,Education,4322,11.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB8,22.35,28.13,61.0,29.0,44,2,CB,2023,1,Cambridge
+2023-01-18,000PztIH,Education,4323,14.0,,,CB9,22.35,27.03,36.0,17.0,48,4,CB,2023,1,Cambridge
+2023-01-23,000QkpBg,Education,4345,13.0,,,PE27,22.35,26.02,38.0,63.0,69,5,PE,2023,1,Peterborough
+2023-01-23,000eExkP,Mental Health,4350,11.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP20,21.54,22.35,21.0,43.0,44,3,IP,2023,1,Ipswich
+2023-01-31,000l9VoK,Other,4369,15.0,Female,,CB6,19.98,19.25,14.0,24.0,32,3,CB,2023,1,Cambridge
+2023-02-16,000l9Vp2,Local Government,4387,16.0,,,NR32,17.98,20.73,5.0,12.0,29,2,NR,2023,2,Norwich
+2023-03-07,001k1Db1,Education,4422,14.0,Male,,CB1,19.98,20.73,15.0,9.0,92,5,CB,2023,3,Cambridge
+2023-03-09,000fNtEH,Education,4431,15.0,Male,White ? British/English/Scottish/Welsh/Northern Irish,,22.35,19.98,26.0,16.0,29,2,,2023,3,
+2023-03-24,000l9VoK,Other,4455,13.0,Male,,CB4,16.88,28.13,2.0,9.0,17,3,CB,2023,3,Cambridge
+2023-04-17,000l9VoK,Other,4480,15.0,Male,,CB2,16.88,16.36,3.0,4.0,6,5,CB,2023,4,Cambridge
+2023-04-18,000l9Vox,Other,4485,44.0,Male,White ? British/English/Scottish/Welsh/Northern Irish,IP33,17.43,19.25,3.0,9.0,11,2,IP,2023,4,Ipswich
+2023-04-25,000l9Vp2,Local Government,4493,14.0,,,CO10,22.35,20.73,20.0,35.0,39,3,CO,2023,4,Colchester
+2023-04-25,001gnYTJ,Education,4495,14.0,,,CB23,19.25,22.35,18.0,23.0,43,2,CB,2023,4,Cambridge
+2023-05-04,001uYyCf,Local Government,4513,13.0,,,PE15,24.11,26.02,23.0,42.0,57,9,PE,2023,5,Peterborough
+2023-05-04,000l9Vp2,Local Government,4527,15.0,,,NR35,20.73,20.73,28.0,90.0,84,4,NR,2023,5,Norwich
+2023-05-15,000l9VoK,Other,4557,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB6,18.59,25.03,8.0,10.0,109,6,CB,2023,5,Cambridge
+2023-05-24,000cwR7g,Mental Health,4576,22.0,,,CO11,16.88,27.03,6.0,12.0,52,1,CO,2023,5,Colchester
+2023-05-25,000Zrgwl,Other,4502,16.0,,,,19.25,21.54,20.0,134.0,358,2,,2023,5,
+2023-05-26,000cwR7g,Mental Health,4583,19.0,,,IP11,17.43,19.25,8.0,18.0,137,2,IP,2023,5,Ipswich
+2023-06-06,000cwR7g,Mental Health,4592,20.0,,,IP32,16.36,24.11,7.0,2.0,27,1,IP,2023,6,Ipswich
+2023-06-07,000GyB4F,,4593,13.0,,,IP5,21.54,19.98,1.0,5.0,13,2,IP,2023,6,Ipswich
+2023-06-15,000Zrgwl,Other,4597,17.0,,,,24.11,22.35,20.0,134.0,358,2,,2023,6,
+2023-06-15,000Zrgwl,Other,4504,18.0,,,,21.54,26.02,20.0,134.0,358,2,,2023,6,
+2023-06-22,001IGAju,Other,4619,10.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,PE28,22.35,22.35,1.0,3.0,57,2,PE,2023,6,Peterborough
+2023-07-06,000Zrgwl,Other,4611,17.0,,,,17.98,25.03,20.0,134.0,358,2,,2023,7,
+2023-07-11,000gOOds,Education,4644,14.0,,,IP31,17.98,21.54,24.0,55.0,47,5,IP,2023,7,Ipswich
+2023-07-26,000cwR7g,Mental Health,4656,21.0,Female,,IP33,16.88,19.25,2.0,0.0,22,3,IP,2023,7,Ipswich
+2023-07-26,000l9Vp2,Local Government,4660,15.0,,,IP1,18.59,20.73,0.0,0.0,38,2,IP,2023,7,Ipswich
+2023-07-26,001uYyCf,Local Government,4662,15.0,,,AL4,19.25,25.03,13.0,19.0,63,3,AL,2023,7,St Albans
+2023-08-02,000cwR7g,Mental Health,4668,15.0,,,IP22,18.59,17.98,5.0,61.0,44,4,IP,2023,8,Ipswich
+2023-08-02,000l9VoK,Other,4670,12.0,Male,,CB5,23.21,32.55,7.0,10.0,199,1,CB,2023,8,Cambridge
+2023-08-15,000eExkP,Mental Health,4694,13.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP6,17.98,20.73,0.0,0.0,21,1,IP,2023,8,Ipswich
+2023-08-15,000eExkP,Mental Health,4696,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP12,19.98,22.35,8.0,2.0,37,2,IP,2023,8,Ipswich
+2023-08-22,000l9Vp2,Local Government,4713,14.0,,,IP23,16.36,22.35,18.0,13.0,85,2,IP,2023,8,Ipswich
+2023-08-25,000GyB4F,,4720,14.0,,,IP12,15.84,15.84,160.0,247.0,241,7,IP,2023,8,Ipswich
+2023-09-11,000l9VoK,Other,4732,10.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,PE19,23.21,23.21,2.0,3.0,192,3,PE,2023,9,Peterborough
+2023-09-26,000l9Vp2,Local Government,4763,14.0,,,IP30,15.84,15.84,13.0,15.0,18,6,IP,2023,9,Ipswich
+2023-10-02,000nlsYY,Education,4788,13.0,,,CB6,24.11,24.11,29.0,29.0,71,2,CB,2023,10,Cambridge
+2023-10-17,000l9VoK,Other,4812,13.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,CB3,21.54,17.98,7.0,4.0,66,2,CB,2023,10,Cambridge
+2023-10-18,000l9Vp2,Local Government,4817,15.0,,,IP31,20.73,22.35,3.0,13.0,30,6,IP,2023,10,Ipswich
+2023-11-02,000boW0E,Mental Health,4832,14.0,,,IP33,19.98,18.59,31.0,117.0,71,3,IP,2023,11,Ipswich
+2023-11-09,000eExkP,Mental Health,4851,15.0,Male,,IP12,25.03,28.13,19.0,9.0,52,3,IP,2023,11,Ipswich
+2023-11-09,000eExkP,Mental Health,4854,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP33,24.11,29.31,6.0,4.0,43,2,IP,2023,11,Ipswich
+2023-11-10,000eExkP,Mental Health,4856,12.0,Male,,IP4,21.54,23.21,6.0,0.0,18,3,IP,2023,11,Ipswich
+2023-11-27,0000vM3u,Education,4894,13.0,Prefer not to say,Prefer not to say,NR34,20.73,7.0,10.0,35.0,44,3,NR,2023,11,Norwich
+2023-12-06,0001COh7,Education,4916,13.0,,,IP33,17.98,17.98,4.0,6.0,31,14,IP,2023,12,Ipswich
+2023-12-06,000eExkP,Mental Health,4921,12.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP23,19.25,27.03,16.0,41.0,65,2,IP,2023,12,Ipswich
+2023-12-13,000l9Vox,Other,4925,17.0,,,NR14,15.84,18.59,9.0,2.0,45,2,NR,2023,12,Norwich
+2024-01-12,000cwR7g,Mental Health,4949,18.0,,,IP14,17.43,15.84,3.0,5.0,28,2,IP,2024,1,Ipswich
+2024-01-15,001gnYTS,Education,4952,14.0,,,CB4,22.35,21.54,0.0,14.0,27,3,CB,2024,1,Cambridge
+2024-01-15,001gnYTS,Education,4955,13.0,,,CB4,27.03,25.03,28.0,17.0,26,3,CB,2024,1,Cambridge
+2024-01-19,000eExkP,Mental Health,4975,9.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP2,19.25,22.35,8.0,0.0,38,2,IP,2024,1,Ipswich
+2024-01-25,000l9Vp2,Local Government,4981,14.0,,,NR34,20.73,19.98,4.0,3.0,35,1,NR,2024,1,Norwich
+2024-01-25,000l9Vp2,Local Government,4982,17.0,,,IP32,17.98,20.73,1.0,20.0,26,2,IP,2024,1,Ipswich
+2024-01-25,000l9VoK,Other,4985,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB24,23.21,29.31,6.0,1.0,236,2,CB,2024,1,Cambridge
+2024-02-02,0002iCxC,,5006,16.0,,,IP4,20.73,20.73,1.0,1.0,13,3,IP,2024,2,Ipswich
+2024-02-15,001IGAju,Other,5021,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CB6,27.03,22.35,4.0,40.0,31,3,CB,2024,2,Cambridge
+2024-03-01,000eExkP,Mental Health,5171,13.0,Female,White ? British/English/Scottish/Welsh/Northern Irish,IP9,22.35,19.98,0.0,0.0,15,2,IP,2024,3,Ipswich
+2024-03-19,000PxgbB,Education,5206,11.0,,,CB8,25.03,27.03,15.0,14.0,16,3,CB,2024,3,Cambridge
+2024-04-03,000l9Vp2,Local Government,5228,11.0,Male,Mixed/multiple ethnic groups ? White and Black African background,IP33,30.7,32.55,9.0,12.0,43,2,IP,2024,4,Ipswich
+2024-04-08,0004nWpH,Education,5230,11.0,Male,White ? British/English/Scottish/Welsh/Northern Irish,PE7,24.11,29.31,2.0,5.0,71,3,PE,2024,4,Peterborough
+2024-04-10,000l9Vp2,Local Government,5240,14.0,,,IP14,19.25,26.02,1.0,7.0,40,1,IP,2024,4,Ipswich
+2024-04-17,00057YoV,Education,5256,11.0,,,PE15,19.25,32.55,29.0,23.0,20,5,PE,2024,4,Peterborough
+2024-04-17,0009EHWS,Education,5259,14.0,Male,,CM3,18.59,21.54,1.0,0.0,18,1,CM,2024,4,Chelmsford
+2024-04-18,000eExkP,Mental Health,5262,13.0,Female,English/Welsh/Scottish/Northern Irish/British Irish,IP7,17.98,21.54,5.0,6.0,17,2,IP,2024,4,Ipswich
+2024-04-18,000eExkP,Mental Health,5263,14.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,CO10,22.35,22.35,2.0,4.0,16,2,CO,2024,4,Colchester
+2024-04-19,000eExkP,Mental Health,5265,13.0,Male,English/Welsh/Scottish/Northern Irish/British Irish,IP13,22.35,23.21,11.0,26.0,14,2,IP,2024,4,Ipswich
+2024-04-23,0009EHWS,Education,5271,11.0,Male,,CM11,27.03,24.11,9.0,36.0,46,2,CM,2024,4,Chelmsford
+2024-05-13,000boW0E,Mental Health,5291,17.0,Female,White ? any other white background,IP30,18.59,23.21,13.0,17.0,24,5,IP,2024,5,Ipswich
+2024-07-11,000Zrgwl,Other,4987,19.0,,,,23.21,28.13,20.0,134.0,358,2,,2024,7,
+2024-07-11,000Zrgwl,Other,4609,17.0,Male,Other ? any other ethnic group,,16.36,25.03,20.0,134.0,358,2,,2024,7,
